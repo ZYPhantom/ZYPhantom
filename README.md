@@ -1,2 +1,3 @@
 # hello-world
-change
+Hello everyone
+I want to learn how to become a programme
